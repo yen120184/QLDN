@@ -1,0 +1,8 @@
+{
+  "name": "QLDN_backend",
+  "version": "1.0.0",
+  "description": "QLDN",
+  "main": "src/server.ts",
+  "author": "yen",
+  "license": "MIT"
+}
