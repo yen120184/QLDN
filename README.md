@@ -22,3 +22,7 @@
 - git push -u origin main
 
 - tsc --init
+
+- yarn add express
+- yarn add typescript nodemon ts-node --dev
+- yarn server
