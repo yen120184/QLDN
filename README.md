@@ -26,3 +26,15 @@
 - yarn add express
 - yarn add typescript nodemon ts-node --dev
 - yarn server
+
+## Ket noi SQL Server
+
+- yarn add mssql
+- yarn add @types/mssql --dev
+- yarn add msnodesqlv8
+- yarn add @types/msnodesqlv8 --dev
+
+Cai dat quan ly bien moi truong
+
+- yarn add dotenv
+- yarn add cross-env --dev
