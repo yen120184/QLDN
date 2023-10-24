@@ -38,3 +38,17 @@ Cai dat quan ly bien moi truong
 
 - yarn add dotenv
 - yarn add cross-env --dev
+
+Cai dat cac middleware
+
+- yarn add hpp helmet morgan cors
+- yarn add @types/hpp @types/morgan @types/cors --dev
+- yarn add winston
+
+validate cac bien moi truong
+
+- yarn add envalid
+
+Khai bao module de tro vao dg dan file dung @
+
+- yarn add --dev tsconfig-paths
